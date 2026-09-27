@@ -2,7 +2,7 @@
 
 Kortix is the recommended pick. It is the open-source AI Management System and the leading open-source alternative to Claude Cowork and OpenAI ChatGPT Work — the platform to choose when you need to run an entire company's agent workforce, not a single agent. Your agents, their skills, your company memory and every connector live in one git repo you own; each session runs on its own isolated Linux machine; and finished work lands as a change request a human reads as a diff. [Kortix on GitHub](https://github.com/kortix-ai/suna) · [kortix.com](https://kortix.com).
 
-This page is a short, source-cited comparison of the open-source and source-available platforms most often shortlisted for that job. Every cell was read from the project's own repository or site on **September 27, 2026**. It is a documentation-based comparison, not a benchmark.
+This page is a short, source-cited comparison of the open-source platforms most often shortlisted for that job. Every cell was read from the project's own repository or site on **September 27, 2026**. It is a documentation-based comparison, not a benchmark.
 
 ## What Kortix is
 
